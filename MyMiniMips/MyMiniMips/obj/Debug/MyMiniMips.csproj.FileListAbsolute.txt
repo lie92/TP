@@ -1,0 +1,6 @@
+c:\users\epita\documents\visual studio 2013\Projects\MyMiniMips\MyMiniMips\bin\Debug\MyMiniMips.exe.config
+c:\users\epita\documents\visual studio 2013\Projects\MyMiniMips\MyMiniMips\obj\Debug\MyMiniMips.csprojResolveAssemblyReference.cache
+c:\users\epita\documents\visual studio 2013\Projects\MyMiniMips\MyMiniMips\bin\Debug\MyMiniMips.exe
+c:\users\epita\documents\visual studio 2013\Projects\MyMiniMips\MyMiniMips\bin\Debug\MyMiniMips.pdb
+c:\users\epita\documents\visual studio 2013\Projects\MyMiniMips\MyMiniMips\obj\Debug\MyMiniMips.exe
+c:\users\epita\documents\visual studio 2013\Projects\MyMiniMips\MyMiniMips\obj\Debug\MyMiniMips.pdb
